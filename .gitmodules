@@ -1,0 +1,3 @@
+[submodule "django-jython"]
+	path = django-jython
+	url = https://github.com/beachmachine/django-jython.git
